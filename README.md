@@ -2,7 +2,7 @@
 ## Variables 
 ### Title 3
 
-![classpic](/Users/jamal/Downloads/funny_class.jpg)
+![classpic](data/funny_class.jpg)
 
 
 md file is mark down language file. this file is recognized by any browser and github 
